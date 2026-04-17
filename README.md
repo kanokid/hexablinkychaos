@@ -8,3 +8,6 @@ Schematic:
 
 PCB:
 <img width="1038" height="861" alt="Screenshot 2026-04-16 220157" src="https://github.com/user-attachments/assets/d1d9c597-14b8-4c71-9e2f-fb0ce576aa6d" />
+
+PCB Render:
+<img width="998" height="839" alt="Screenshot 2026-04-16 220850" src="https://github.com/user-attachments/assets/c9e97a31-722b-438c-8875-9984a88e17ba" />
